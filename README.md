@@ -6,7 +6,7 @@
 
 ---
 
-## 📘 Course Overview
+### 📘 Course Overview
 
 ELE202 provides a comprehensive introduction to electric circuit analysis essential for all electrical and computer engineering disciplines. This repository showcases a series of structured lab experiments emphasizing theoretical understanding and hands-on applications of DC and AC circuits using lab instruments and simulation tools.
 
